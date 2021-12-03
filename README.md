@@ -2,7 +2,7 @@
 hse21_hw3
 ## Часть №1
 
-ссылка на коллаб 
+ссылка на коллаб https://colab.research.google.com/drive/11-5BXmcbZ9FxWa5RcTyo-U3FsPfDDAI2?usp=sharing
 
 статистика из MultiQC
 
