@@ -17,3 +17,15 @@ hse21_hw3
 <img src="https://github.com/x3042/hse21_hw3/blob/main/screen/Screenshot%202021-12-02%20at%2003.39.24.png" style="zoom:50%;" />
 
 <img src="https://github.com/x3042/hse21_hw3/blob/main/screen/Screenshot%202021-12-02%20at%2003.39.50.png" style="zoom:50%;" />
+ 
+ 
+ ## Часть №2
+ ссылка на коллаб https://colab.research.google.com/drive/1CKCckGcrSYPn1vCQ8B8HI1yhSR7Aoirr?usp=sharing
+ 
+ plotMA
+ 
+ heat map
+ 
+ Normalized counts в контрольных и перепрограммированных образцах
+ 
+ 
