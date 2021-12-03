@@ -33,8 +33,8 @@ hse21_hw3
  Normalized counts в контрольных и перепрограммированных образцах
  <p float="left">
   <img src="/screen/Screenshot%202021-12-03%20at%2018.15.27.png" width="400" />
-  <img src="/screen/res2.png" width="400" />
-  <img src="/screen/res3.png " width="400" />
-  <img src="/screen/res4.png" width="400" />
+  <img src="/screen/Screenshot%202021-12-03%20at%2018.15.47.png" width="400" />
+  <img src="/screen/Screenshot%202021-12-03%20at%2018.15.56.png " width="400" />
+  <img src="/screen/Screenshot%202021-12-03%20at%2018.16.06.png" width="400" />
 </p> 
  
